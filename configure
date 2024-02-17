@@ -13,3 +13,5 @@ CONFIGURE_DIR=$(dirname "$0")
 
 echo "Configuration finished"
 
+##My comment
+
